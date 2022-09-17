@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require "discordrb"
-require "botwayrb"
+require "bwrb"
 
 bw = Botwayrb::Core.new
 bot = Discordrb::Bot.new token: bw.get_token

@@ -6,4 +6,4 @@
 
 - [**Ruby**](https://www.ruby-lang.org)
 - [**DiscordRb**](https://github.com/shardlab/discordrb)
-- [**BotwayRb**](https://rubygems.org/gems/botwayrb)
+- [**BWRB**](https://rubygems.org/gems/bwrb)
